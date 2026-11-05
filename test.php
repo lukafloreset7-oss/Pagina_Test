@@ -40,7 +40,7 @@ $datosPersonales = [
     Nombre del Alumno. reemplaza nombre y apellido por tu nombre y apellido real.
     */
 
-    "alumno" => "Nahuel Borquez Belli",
+    "alumno" => "Luka Uriel Flores",
 
 
 
@@ -48,7 +48,7 @@ $datosPersonales = [
     Correo electrónico del alumno. reemplaza nombreApellido por tu nombre y apellido real.
     */
 
-    "email" => "nahuel.borquez.et7@gmail.com"
+    "email" => "Luka.flores.et7@gmail.com"
 
 ];
 

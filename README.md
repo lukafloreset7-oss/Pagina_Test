@@ -1,6 +1,6 @@
 # Desafío de la Clase 4
 
-Alumno: Nahuel Borquez Beli
+Alumno: Luka Flores
 
 Materia: Análisis de Sistemas
 
